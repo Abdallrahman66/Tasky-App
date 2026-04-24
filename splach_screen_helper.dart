@@ -1,3 +1,14 @@
+//? native splash screen
+//? icon luncher
+//? app name 
+//? assets folder
+//?folder core
+//? => colors - fonts - images
+//? common - widget - utils
+
+
+
+
 //!Splash Screen Helper:
 
 // 1- add package flutter_native_splash in pubspec.yaml_/
